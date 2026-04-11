@@ -2,6 +2,8 @@
 
 This project is part of the `Assessment` repository.
 
+App url - https://analyst2002-assessment-app-sfziyv.streamlit.app/
+
 NewsBot is an NLP project for classifying news headlines into four categories:
 
 - `TECHNO`
