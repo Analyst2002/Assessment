@@ -2,5 +2,6 @@
 .venv*/
 __pycache__/
 *.pyc
-models/
+models/*
+!models/newsbot_pipeline.joblib
 .streamlit/
