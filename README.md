@@ -1,5 +1,7 @@
 # NewsBot - Headline Classifier
 
+This project is part of the `Assessment` repository.
+
 NewsBot is an NLP project for classifying news headlines into four categories:
 
 - `TECHNO`
