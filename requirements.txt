@@ -1,0 +1,4 @@
+spacy>=3.7
+scikit-learn>=1.4
+streamlit>=1.32
+joblib>=1.3
